@@ -6,3 +6,6 @@ I'm gonna imitate my first code lines.
 
 they are good to know.
 they are not necessarily good.
+more changes to demo.
+
+it is exciting to write my very first codes ever.
